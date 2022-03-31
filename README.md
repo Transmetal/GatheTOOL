@@ -9,14 +9,8 @@
 
 * apt-get install git
 
-* git clone https://github.com/AngelSecurityTeam/GatheTOOL
+* git clone https://github.com/Transmetal/GatheTOOL
 
 * cd GatheTOOL
 
 * python3 GatheTool.py
-
-<img src="https://github.com/AngelSecurityTeam/GatheTOOL/blob/master/InfoToolFOTO.png">
-
-<h3> Paypal donations: </h3>
-
-* https://www.paypal.me/AngelSecurityTeam
